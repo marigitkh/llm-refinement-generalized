@@ -1,0 +1,199 @@
+Model/Dataset: DeepSeek-R1-Distill-Qwen-1.5B/aqua
+  Total Questions Evaluated: 10
+  Incorrect Initially: 7
+  Accuracy Before Hints: 3/10 = 30.00%
+  Net Gain on Wrong Subset: 1/7 = 14.29%
+  Accuracy After Hints: 4/10 = 40.00%
+  Δ Accuracy: +10.00%
+
+Model/Dataset: DeepSeek-R1-Distill-Qwen-1.5B/ar_lsat
+  Total Questions Evaluated: 10
+  Incorrect Initially: 7
+  Accuracy Before Hints: 3/10 = 30.00%
+  Net Gain on Wrong Subset: 1/7 = 14.29%
+  Accuracy After Hints: 4/10 = 40.00%
+  Δ Accuracy: +10.00%
+
+Model/Dataset: DeepSeek-R1-Distill-Qwen-1.5B/asdiv
+  Total Questions Evaluated: 10
+  Incorrect Initially: 2
+  Accuracy Before Hints: 8/10 = 80.00%
+  Net Gain on Wrong Subset: 1/2 = 50.00%
+  Accuracy After Hints: 9/10 = 90.00%
+  Δ Accuracy: +10.00%
+
+Model/Dataset: DeepSeek-R1-Distill-Qwen-1.5B/gsm8k
+  Total Questions Evaluated: 10
+  Incorrect Initially: 10
+  Accuracy Before Hints: 0/10 = 0.00%
+  Net Gain on Wrong Subset: 1/10 = 10.00%
+  Accuracy After Hints: 1/10 = 10.00%
+  Δ Accuracy: +10.00%
+
+Model/Dataset: DeepSeek-R1-Distill-Qwen-1.5B/sports
+  Total Questions Evaluated: 10
+  Incorrect Initially: 4
+  Accuracy Before Hints: 6/10 = 60.00%
+  Net Gain on Wrong Subset: 0/4 = 0.00%
+  Accuracy After Hints: 6/10 = 60.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Phi-4-mini-instruct/aqua
+  Total Questions Evaluated: 10
+  Incorrect Initially: 4
+  Accuracy Before Hints: 6/10 = 60.00%
+  Net Gain on Wrong Subset: 1/4 = 25.00%
+  Accuracy After Hints: 7/10 = 70.00%
+  Δ Accuracy: +10.00%
+
+Model/Dataset: Phi-4-mini-instruct/ar_lsat
+  Total Questions Evaluated: 10
+  Incorrect Initially: 8
+  Accuracy Before Hints: 2/10 = 20.00%
+  Net Gain on Wrong Subset: 2/8 = 25.00%
+  Accuracy After Hints: 4/10 = 40.00%
+  Δ Accuracy: +20.00%
+
+Model/Dataset: Phi-4-mini-instruct/asdiv
+  Total Questions Evaluated: 10
+  Incorrect Initially: 0
+  Accuracy Before Hints: 10/10 = 100.00%
+  No initially wrong questions to improve
+  Accuracy After Hints: 10/10 = 100.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Phi-4-mini-instruct/gsm8k
+  Total Questions Evaluated: 10
+  Incorrect Initially: 2
+  Accuracy Before Hints: 8/10 = 80.00%
+  Net Gain on Wrong Subset: 0/2 = 0.00%
+  Accuracy After Hints: 8/10 = 80.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Phi-4-mini-instruct/sports
+  Total Questions Evaluated: 10
+  Incorrect Initially: 4
+  Accuracy Before Hints: 6/10 = 60.00%
+  Net Gain on Wrong Subset: 0/4 = 0.00%
+  Accuracy After Hints: 6/10 = 60.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Phi-4-mini-reasoning/aqua
+  Total Questions Evaluated: 10
+  Incorrect Initially: 9
+  Accuracy Before Hints: 1/10 = 10.00%
+  Net Gain on Wrong Subset: 0/9 = 0.00%
+  Accuracy After Hints: 1/10 = 10.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Phi-4-mini-reasoning/ar_lsat
+  Total Questions Evaluated: 10
+  Incorrect Initially: 10
+  Accuracy Before Hints: 0/10 = 0.00%
+  Net Gain on Wrong Subset: 0/10 = 0.00%
+  Accuracy After Hints: 0/10 = 0.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Phi-4-mini-reasoning/asdiv
+  Total Questions Evaluated: 10
+  Incorrect Initially: 10
+  Accuracy Before Hints: 0/10 = 0.00%
+  Net Gain on Wrong Subset: 0/10 = 0.00%
+  Accuracy After Hints: 0/10 = 0.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Phi-4-mini-reasoning/gsm8k
+  Total Questions Evaluated: 10
+  Incorrect Initially: 10
+  Accuracy Before Hints: 0/10 = 0.00%
+  Net Gain on Wrong Subset: 0/10 = 0.00%
+  Accuracy After Hints: 0/10 = 0.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Phi-4-mini-reasoning/sports
+  Total Questions Evaluated: 10
+  Incorrect Initially: 10
+  Accuracy Before Hints: 0/10 = 0.00%
+  Net Gain on Wrong Subset: 0/10 = 0.00%
+  Accuracy After Hints: 0/10 = 0.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Qwen2.5-Math-1.5B/aqua
+  Total Questions Evaluated: 10
+  Incorrect Initially: 6
+  Accuracy Before Hints: 4/10 = 40.00%
+  Net Gain on Wrong Subset: 0/6 = 0.00%
+  Accuracy After Hints: 4/10 = 40.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Qwen2.5-Math-1.5B/ar_lsat
+  Total Questions Evaluated: 10
+  Incorrect Initially: 10
+  Accuracy Before Hints: 0/10 = 0.00%
+  Net Gain on Wrong Subset: 1/10 = 10.00%
+  Accuracy After Hints: 1/10 = 10.00%
+  Δ Accuracy: +10.00%
+
+Model/Dataset: Qwen2.5-Math-1.5B/asdiv
+  Total Questions Evaluated: 10
+  Incorrect Initially: 5
+  Accuracy Before Hints: 5/10 = 50.00%
+  Net Gain on Wrong Subset: 0/5 = 0.00%
+  Accuracy After Hints: 5/10 = 50.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Qwen2.5-Math-1.5B/gsm8k
+  Total Questions Evaluated: 10
+  Incorrect Initially: 10
+  Accuracy Before Hints: 0/10 = 0.00%
+  Net Gain on Wrong Subset: 0/10 = 0.00%
+  Accuracy After Hints: 0/10 = 0.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: Qwen2.5-Math-1.5B/sports
+  Total Questions Evaluated: 10
+  Incorrect Initially: 4
+  Accuracy Before Hints: 6/10 = 60.00%
+  Net Gain on Wrong Subset: 0/4 = 0.00%
+  Accuracy After Hints: 6/10 = 60.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: gemma-2-2b-it/aqua
+  Total Questions Evaluated: 10
+  Incorrect Initially: 4
+  Accuracy Before Hints: 6/10 = 60.00%
+  Net Gain on Wrong Subset: 0/4 = 0.00%
+  Accuracy After Hints: 6/10 = 60.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: gemma-2-2b-it/ar_lsat
+  Total Questions Evaluated: 10
+  Incorrect Initially: 8
+  Accuracy Before Hints: 2/10 = 20.00%
+  Net Gain on Wrong Subset: 0/8 = 0.00%
+  Accuracy After Hints: 2/10 = 20.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: gemma-2-2b-it/asdiv
+  Total Questions Evaluated: 10
+  Incorrect Initially: 0
+  Accuracy Before Hints: 10/10 = 100.00%
+  No initially wrong questions to improve
+  Accuracy After Hints: 10/10 = 100.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: gemma-2-2b-it/gsm8k
+  Total Questions Evaluated: 10
+  Incorrect Initially: 5
+  Accuracy Before Hints: 5/10 = 50.00%
+  Net Gain on Wrong Subset: 0/5 = 0.00%
+  Accuracy After Hints: 5/10 = 50.00%
+  Δ Accuracy: +0.00%
+
+Model/Dataset: gemma-2-2b-it/sports
+  Total Questions Evaluated: 10
+  Incorrect Initially: 3
+  Accuracy Before Hints: 7/10 = 70.00%
+  Net Gain on Wrong Subset: 0/3 = 0.00%
+  Accuracy After Hints: 7/10 = 70.00%
+  Δ Accuracy: +0.00%
